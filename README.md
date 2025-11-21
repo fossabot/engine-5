@@ -7,6 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&color=black)](https://discord.gg/RSaMRzg)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/r/PlayCanvas)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&color=black)](https://x.com/intent/follow?screen_name=playcanvas)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjtrinidadperez%2Fengine.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjtrinidadperez%2Fengine?ref=badge_shield)
 
 | [User Manual](https://developer.playcanvas.com/user-manual/engine/) | [API Reference](https://api.playcanvas.com/engine/) | [Examples](https://playcanvas.github.io) | [Blog](https://blog.playcanvas.com) | [Forum](https://forum.playcanvas.com) |
 
@@ -116,3 +117,7 @@ The PlayCanvas Engine is an open-source engine that you can use to create HTML5 
 [![Editor](https://github.com/playcanvas/editor/blob/main/images/editor.png?raw=true)](https://github.com/playcanvas/editor)
 
 For Editor-related bugs and issues, please refer to the [Editor's repo](https://github.com/playcanvas/editor).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjtrinidadperez%2Fengine.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjtrinidadperez%2Fengine?ref=badge_large)
